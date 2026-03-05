@@ -1,3 +1,3 @@
 # DEMO
 
-Something interesting, probably
+Something interesting, probably >v<
