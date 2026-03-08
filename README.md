@@ -6,6 +6,8 @@ Something interesting, probably >v<
 
 Another random sentence
 
-## Local Development
+## Locally Developed
 
-1. Open index.html in your chrome browser.
+1. Open index.html in your browser.
+
+uhmmm, some additional stuff 0_0
